@@ -25,3 +25,5 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+Note: This LICENSE only applies to the docker-publish.yml file that was copied from the ttimbers/dsci522-dockerfile-practice repository. It does not cover other files or content in this repository.
